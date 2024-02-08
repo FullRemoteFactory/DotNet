@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "hQ2wm0mq5tTQW/Zv/0McfLiPA8TXIQJoKREsA0Y36AM=",
+  "Source": "VoyageBack",
+  "BasePath": "_content/VoyageBack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VoyageBack\\wwwroot",
+      "Source": "VoyageBack",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\VoyageBack\\VoyageBack\\wwwroot\\",
+      "BasePath": "_content/VoyageBack",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\VoyageBack\\VoyageBack\\wwwroot\\images\\24220159-57e7-43a9-aa41-bce87e9fa468.jpg",
+      "SourceId": "VoyageBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\VoyageBack\\VoyageBack\\wwwroot\\",
+      "BasePath": "_content/VoyageBack",
+      "RelativePath": "images/24220159-57e7-43a9-aa41-bce87e9fa468.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\24220159-57e7-43a9-aa41-bce87e9fa468.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\VoyageBack\\VoyageBack\\wwwroot\\images\\53ce52dd-375e-4488-b0ae-dc7316ede52f.jpg",
+      "SourceId": "VoyageBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\VoyageBack\\VoyageBack\\wwwroot\\",
+      "BasePath": "_content/VoyageBack",
+      "RelativePath": "images/53ce52dd-375e-4488-b0ae-dc7316ede52f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\53ce52dd-375e-4488-b0ae-dc7316ede52f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\VoyageBack\\VoyageBack\\wwwroot\\images\\6c56930e-8852-4d1a-a829-de7e1ed578e1.jpg",
+      "SourceId": "VoyageBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\VoyageBack\\VoyageBack\\wwwroot\\",
+      "BasePath": "_content/VoyageBack",
+      "RelativePath": "images/6c56930e-8852-4d1a-a829-de7e1ed578e1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6c56930e-8852-4d1a-a829-de7e1ed578e1.jpg"
+    }
+  ]
+}

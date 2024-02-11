@@ -8,6 +8,15 @@ Microsoft.EntityFrameworkCore.Sqlite
 Microsoft.EntityFrameworkCore.Tools
 Microsoft.AspNetCore.Authentication.JwtBearer
 ....
+1- Api get hotels :
+![image](https://github.com/FullRemoteFactory/DotNet/assets/44504807/80c6d02f-6843-495b-bed3-bc0c30d7edf1)
+2- Api info user :
+![image](https://github.com/FullRemoteFactory/DotNet/assets/44504807/52300de1-4bfb-49c9-872c-2cf7d4a042df)
+3- details travel for current user
+![image](https://github.com/FullRemoteFactory/DotNet/assets/44504807/1590a42f-7bde-4989-91c2-a80446cffb50)
+
+
+
 
 Frontend Implementation
 The frontend of the application is developed using React, a popular JavaScript library for building dynamic user interfaces. React enables the creation of reusable components, facilitating code organization and maintainability. React Router is employed for client-side routing, ensuring smooth navigation within the application. GraphQL is integrated into the frontend to streamline data fetching and manipulation, providing a more flexible and efficient alternative to traditional REST APIs.

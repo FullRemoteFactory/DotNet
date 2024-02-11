@@ -17,8 +17,9 @@ namespace VoyageBack.Models
         public string PhoneNumber { get; set; }
         public string Email { get; set; }
         public int StarRating { get; set; } // Or any other rating system you prefer
-        public string Description { get; set; }                                
-
+        public string Description { get; set; }
+        public string FotoName { get; set; }
+        public string FotoFilePath { get; set; }
         // Foreign key for the related travel
         public int TravelId { get; set; }
         public Travel Travel { get; set; } // Navigation property

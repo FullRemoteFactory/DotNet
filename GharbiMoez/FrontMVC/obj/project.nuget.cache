@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "TVt6dUTlf9FpmF8HXaTHIbPd9wgdtZ+s7ki/nqnbWwtz0log1xDK1gELDxRC/jIi7uuPyzO0CUIqvFP6hR/CZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\FrontMVC\\TravelBookingFrance.FrontMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moez\\.nuget\\packages\\graphql.client\\6.0.2\\graphql.client.6.0.2.nupkg.sha512",
+    "C:\\Users\\Moez\\.nuget\\packages\\graphql.client.abstractions\\6.0.2\\graphql.client.abstractions.6.0.2.nupkg.sha512",
+    "C:\\Users\\Moez\\.nuget\\packages\\graphql.client.abstractions.websocket\\6.0.2\\graphql.client.abstractions.websocket.6.0.2.nupkg.sha512",
+    "C:\\Users\\Moez\\.nuget\\packages\\graphql.client.serializer.newtonsoft\\6.0.2\\graphql.client.serializer.newtonsoft.6.0.2.nupkg.sha512",
+    "C:\\Users\\Moez\\.nuget\\packages\\graphql.primitives\\6.0.2\\graphql.primitives.6.0.2.nupkg.sha512",
+    "C:\\Users\\Moez\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Moez\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

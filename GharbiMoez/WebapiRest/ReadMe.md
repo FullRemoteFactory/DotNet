@@ -1,183 +1,29 @@
 
-# TravelBookingGraphQl
+# TravelBookingwebapi
 
-# TravelBookingGraphQl
+# TravelBookingwebapi
 
-# Grahql user information 
-#query {
-  userInformationById(userId: 1){
-    username,
-    email,
-    busPhone,   
-    prov,
-    postal,
-    country,
-    city
-  }
-}
-{
- # "data": {
-    "userInformationById": {
-      "username": "johndoe",
-      "email": "123",
-      "busPhone": null,
-      "prov": "",
-      "postal": "123",
-      "country": null,
-      "city": "123"
-    }
-  }
-}
+# Login 
+![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/a6ccbccc-7ea0-49e5-8419-30ca73afc041)
+#register
 
-![Capture d'écran 2024-02-13 183927](https://github.com/gharbyMoez/TravelBookingGraphQl/assets/73045903/2df17c11-cf65-4d7d-9021-f917c5ebf5e8)
+![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/06d6f8ac-db0b-4c17-bdb3-98f355c8b7d6)
+
+#GetAllProduct by TravelId
+![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/4d156458-e039-4db1-8c1a-60143d641511)
+
+#GetAllTravelByCustomerId
+
+![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/94850527-1436-4201-b107-fdb13dee665f)
+![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/3625256e-2f4e-414e-9643-2286e51a1177)
+![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/d6d03c54-d831-4fb6-984d-12d4203fbb72)
 
 
-Graphql Travel with list <product(hotel,car)> ,list <activite> ,Aircraft 
+#getalusers
+![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/7d8844be-7298-429a-b7ba-b1bc956b6a04)
+#get user by id
 
-#query {
-  #allTravelByCustomerId(customerId: 1)
-  {
-    travelName,
-    travelId,
-    travelDate,activities{
-      urlImageAct
-    },products{
-      prodName
-       
-    }
-    ttname,
-    activities{
-      urlImageAct
-    }
-     companyName,
-      flightNumber,
-      seatNumber
-  }
-}
-{
- # "data": {
-    "allTravelByCustomerId": [
-      {
-        "travelName": "Marrakech_sejour",
-        "travelId": 1,
-        "travelDate": "2024-01-10T00:00:00",
-        "activities": [
-          {
-            "urlImageAct": "activite 1"
-          },
-          {
-            "urlImageAct": "activite 1"
-          },
-          {
-            "urlImageAct": "activite 1"
-          }
-        ],
-        "products": [
-          {
-            "prodName": "Golden Tulip"
-          },
-          {
-            "prodName": "BMW"
-          },
-          {
-            "prodName": "Movenpick"
-          }
-        ],
-        "ttname": "Trip Business",
-        "companyName": "TUNISAIR",
-        "flightNumber": "ABC123",
-        "seatNumber": "12A"
-      },
-      {
-        "travelName": "Tunis_Séjour",
-        "travelId": 2,
-        "travelDate": "2024-01-10T00:00:00",
-        "activities": [],
-        "products": [],
-        "ttname": "Trip Business",
-        "companyName": "AIRFRANCE",
-        "flightNumber": "ABC123",
-        "seatNumber": "12A"
-      },
-      {
-        "travelName": "Cairo_Sejour",
-        "travelId": 4,
-        "travelDate": "2024-02-10T00:00:00",
-        "activities": [],
-        "products": [],
-        "ttname": "Trip Business",
-        "companyName": "TUNISAIR",
-        "flightNumber": "ABC123",
-        "seatNumber": "12A"
-      },
-      {
-        "travelName": "Manhatan_Sejour",
-        "travelId": 5,
-        "travelDate": "2024-02-10T00:00:00",
-        "activities": [],
-        "products": [],
-        "ttname": "Trip Business",
-        "companyName": "TUNISAIR",
-        "flightNumber": "ABC123",
-        "seatNumber": "12A"
-      }
-    ]
-  }
-}
-![Capture d'écran 2024-02-13 184332](https://github.com/gharbyMoez/TravelBookingGraphQl/assets/73045903/d158cbb3-e5d8-4afa-89d3-9daeb6591256)
-![Capture d'écran 2024-02-13 184429](https://github.com/gharbyMoez/TravelBookingGraphQl/assets/73045903/3a41e147-5c38-4d06-a317-3fcc32da2190)
-![Capture d'écran 2024-02-13 184948](https://github.com/gharbyMoez/TravelBookingGraphQl/assets/73045903/d0a9ffba-29c4-4131-9aa8-36768edaec72)
+![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/e44ee326-5e93-41da-9287-e21642fdc1e6)
 
 
-
-
-
-#Graphql liste of product liee a un travel by id 
-
-#query {
- allProductsByTravelId(travelId: 1){
-    prodName,
-    prodDescription,   
-   }
-}
-#{
-  "data": {
-   "allProductsByTravelId":  [
-      {
-        "prodName": "Golden Tulip",
-        "prodDescription": "Hotel Description"
-      },
-      {
-        "prodName": "Movenpick",
-        "prodDescription": "Hotel Description"
-      },
-      {
-        "prodName": "BMW",
-        "prodDescription": "Car Description"
-      }
-    ]
-  }
-}
-![Capture d'écran 2024-02-13 185432](https://github.com/gharbyMoez/TravelBookingGraphQl/assets/73045903/724c49ec-dbd1-4588-a647-cf85fa481d64)
-
-
-
-
-Graphql logn 
-
-#query {
- #login(username: "string",password: "string"){
-    username,
-    userId,     
-  }
-}
-#{
- # "data": {
-    #"login": {
-      "username": "string",
-      "userId": 6
-    }
-  }
-}
-![Capture d'écran 2024-02-13 190018](https://github.com/gharbyMoez/TravelBookingGraphQl/assets/73045903/47080be1-4d1c-49f3-b571-40069dc1924d)
 

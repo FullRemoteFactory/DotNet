@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelBookingFrance.FrontMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b1a44bad4a88919e807ff3f1e862ca3ec1c92ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelBookingFrance.FrontMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelBookingFrance.FrontMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

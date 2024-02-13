@@ -267,11 +267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\FrontMVC\\TravelBookingFrance.FrontMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelBookingFrance.FrontMVC\\TravelBookingFrance.FrontMVC.csproj",
       "projectName": "TravelBookingFrance.FrontMVC",
-      "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\FrontMVC\\TravelBookingFrance.FrontMVC.csproj",
+      "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelBookingFrance.FrontMVC\\TravelBookingFrance.FrontMVC.csproj",
       "packagesPath": "C:\\Users\\Moez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\FrontMVC\\obj\\",
+      "outputPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelBookingFrance.FrontMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moez\\AppData\\Roaming\\NuGet\\NuGet.Config",

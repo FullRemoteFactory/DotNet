@@ -1,0 +1,6 @@
+@TravelBookingGraphQl_HostAddress = http://localhost:5016
+
+GET {{TravelBookingGraphQl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

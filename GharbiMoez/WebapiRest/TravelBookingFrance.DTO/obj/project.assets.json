@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DTO\\TravelBookingFrance.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DTO\\TravelBookingFrance.DTO.csproj",
       "projectName": "TravelBookingFrance.DTO",
-      "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DTO\\TravelBookingFrance.DTO.csproj",
+      "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DTO\\TravelBookingFrance.DTO.csproj",
       "packagesPath": "C:\\Users\\Moez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DTO\\obj\\",
+      "outputPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moez\\AppData\\Roaming\\NuGet\\NuGet.Config",

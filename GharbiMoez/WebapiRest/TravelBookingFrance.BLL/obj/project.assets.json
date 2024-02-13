@@ -2599,11 +2599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\GharbiMoez\\WebapiRest\\TravelBookingFrance.BLL\\TravelBookingFrance.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.BLL\\TravelBookingFrance.BLL.csproj",
       "projectName": "TravelBookingFrance.BLL",
-      "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\GharbiMoez\\WebapiRest\\TravelBookingFrance.BLL\\TravelBookingFrance.BLL.csproj",
+      "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.BLL\\TravelBookingFrance.BLL.csproj",
       "packagesPath": "C:\\Users\\Moez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\GharbiMoez\\WebapiRest\\TravelBookingFrance.BLL\\obj\\",
+      "outputPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2620,11 +2620,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj": {
-              "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj"
+            "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj": {
+              "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj"
             },
-            "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DTO\\TravelBookingFrance.DTO.csproj": {
-              "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\Nouveau dossier\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DTO\\TravelBookingFrance.DTO.csproj"
+            "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DTO\\TravelBookingFrance.DTO.csproj": {
+              "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DTO\\TravelBookingFrance.DTO.csproj"
             }
           }
         }

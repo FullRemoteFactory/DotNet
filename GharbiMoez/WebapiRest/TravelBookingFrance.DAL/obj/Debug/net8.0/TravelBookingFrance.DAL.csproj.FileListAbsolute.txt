@@ -22,15 +22,3 @@ C:\Users\Moez\Desktop\PracticeDocker\TravelFrance\TravelBookingFrance.DAL\obj\De
 C:\Users\Moez\Desktop\PracticeDocker\TravelFrance\TravelBookingFrance.DAL\obj\Debug\net8.0\refint\TravelBookingFrance.DAL.dll
 C:\Users\Moez\Desktop\PracticeDocker\TravelFrance\TravelBookingFrance.DAL\obj\Debug\net8.0\TravelBookingFrance.DAL.pdb
 C:\Users\Moez\Desktop\PracticeDocker\TravelFrance\TravelBookingFrance.DAL\obj\Debug\net8.0\ref\TravelBookingFrance.DAL.dll
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\bin\Debug\net8.0\TravelBookingFrance.DAL.deps.json
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\bin\Debug\net8.0\TravelBookingFrance.DAL.dll
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\bin\Debug\net8.0\TravelBookingFrance.DAL.pdb
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\obj\Debug\net8.0\TravelBookingFrance.DAL.csproj.AssemblyReference.cache
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\obj\Debug\net8.0\TravelBookingFrance.DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\obj\Debug\net8.0\TravelBookingFrance.DAL.AssemblyInfoInputs.cache
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\obj\Debug\net8.0\TravelBookingFrance.DAL.AssemblyInfo.cs
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\obj\Debug\net8.0\TravelBookingFrance.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\obj\Debug\net8.0\TravelBookingFrance.DAL.dll
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\obj\Debug\net8.0\refint\TravelBookingFrance.DAL.dll
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\obj\Debug\net8.0\TravelBookingFrance.DAL.pdb
-C:\Users\Moez\Desktop\PracticeDocker\Nouveau dossier\WebapiRest\TravelBookingFrance.DAL\obj\Debug\net8.0\ref\TravelBookingFrance.DAL.dll

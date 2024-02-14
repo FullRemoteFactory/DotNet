@@ -6,6 +6,6 @@ namespace TravelBookingFrance.DAL.Repositories.IRepositories
     {
         Task<IEnumerable<Travel>> GetAllTravelByCustomerIdAsync(int id);
 
-
+        Task<Travel> GetTravelByIdAsync(int TravelId);
     }
 }

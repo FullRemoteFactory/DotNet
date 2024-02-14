@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5XbuMQ8lk9coBl8sK3+EBBa6FFZyiW2c+gRmV8PGc0kMb2+eBbi6zc9mir5IDmYPCbW1U17JwjaTddldMj2yw==",
+  "dgSpecHash": "7wMPzZZJ/5PR2/SasQ06Nguq1Adri5WFfhgeWLkmBdq68UA2h6JWsmFBCNJVv1cGYVQCDbzo3n5GiUNQg7hIiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DTO\\TravelBookingFrance.DTO.csproj",
+  "projectFilePath": "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DTO\\TravelBookingFrance.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

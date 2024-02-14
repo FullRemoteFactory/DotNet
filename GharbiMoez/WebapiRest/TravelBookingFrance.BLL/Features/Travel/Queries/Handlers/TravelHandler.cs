@@ -7,7 +7,8 @@ using TravelFrance.Services.IServices;
 
 namespace TravelBookingFrance.BLL.Features.Travel.Queries.Handlers
 {
-    public class TravelHandler : ResponseHandler, IRequestHandler<GetTravelListByCustomerId, Response<IEnumerable<GetTravelListByCustomerIdResponse>>>
+    public class TravelHandler : ResponseHandler, IRequestHandler<GetTravelListByCustomerId, Response<IEnumerable<GetTravelListByCustomerIdResponse>>>,
+                                                  IRequestHandler<GetTravelById, Response<GetTravelListByCustomerIdResponse>>
     {
         private ITravelService _TravelService;
         private IMapper _mapper;
@@ -22,6 +23,13 @@ namespace TravelBookingFrance.BLL.Features.Travel.Queries.Handlers
         {
             var Result = await _TravelService.GetAllTravelByCustomerIdService(request.CustomerId);
             var resultMap = _mapper.Map<IEnumerable<GetTravelListByCustomerIdResponse>>(Result);
+            return Success(resultMap);
+        }
+
+        public async Task<Response<GetTravelListByCustomerIdResponse>> Handle(GetTravelById request, CancellationToken cancellationToken)
+        {
+            var Result = await _TravelService.GetTravelByIdService(request.TravelId);
+            var resultMap = _mapper.Map<GetTravelListByCustomerIdResponse>(Result);
             return Success(resultMap);
         }
     }

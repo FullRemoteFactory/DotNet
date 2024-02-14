@@ -22,12 +22,15 @@ namespace TravelBookingFrance.DAL.DataContext
                      Username = "johndoe",
                      Password = "123",
                      Name = "John",
+                     Country = "France",
+                     BusPhone = "5588774123",
+                     Address = "Astra.BellaVita",
                      Surname = "Doe",
-                     City = "123",
-                     Prov = "",
-                     Postal = "123",
-                     HomePhone = "123",
-                     Email = "123",
+                     City = "Monaco",
+                     Prov = "Paris",
+                     Postal = "1234444",
+                     HomePhone = "998123445855",
+                     Email = "johndoe@gmail.com",
                  },
                  new Customer
                  {
@@ -35,24 +38,31 @@ namespace TravelBookingFrance.DAL.DataContext
                      Username = "Alex Martin",
                      Password = "123",
                      Name = "Alex",
+                     Country = "France",
+                     BusPhone = "5588774123",
+                     Address = "Astra.BellaVita",
                      Surname = "Martin",
-                     City = "123",
-                     Prov = "",
-                     Postal = "123",
-                     HomePhone = "123",
-                     Email = "123",
+                     City = "Alexandria",
+                     Prov = "Egypte",
+                     Postal = "554123",
+                     HomePhone = "8555474123",
+                     Email = "Alex@gmail.com",
                  },
                   new Customer
                   {
                       UserId = 2,
                       Username = "Rachelle duboit",
                       Password = "123",
+                      Country = "France",
+                      BusPhone = "5588774123",
+                      Address = "Astra.BellaVita",
                       Name = "Rachelle",
                       Surname = "duboit",
-                      City = "123",
-                      Prov = "123",
-                      Postal = "123",
-                      HomePhone = "123",
+                      City = "Alexandria",
+                      Prov = "Egypte",
+                      Postal = "885885123",
+                      HomePhone = "5585474123",
+
                       Email = "Rachelle.duboit@gmail.com",
                   },
                    new Customer
@@ -61,11 +71,16 @@ namespace TravelBookingFrance.DAL.DataContext
                        Username = "Franc Foureaux",
                        Password = "123",
                        Name = "Franc",
+                       Country = "France",
+                       BusPhone = "5588774123",
+                       Address = "Astra.BellaVita",
                        Surname = "Foureaux",
-                       City = "123",
-                       Prov = "",
-                       Postal = "123",
-                       HomePhone = "123",
+                       City = "Alexandria",
+                       Prov = "Egypte",
+                       Postal = "885885123",
+                       HomePhone = "5585474123",
+
+
                        Email = "Franc.Foureaux@gmail.com",
                    },
                     new Customer
@@ -74,6 +89,9 @@ namespace TravelBookingFrance.DAL.DataContext
                         Username = "marcell million",
                         Password = "123",
                         Name = "marcell",
+                        Country = "France",
+                        BusPhone = "5588774123",
+                        Address = "Astra.BellaVita",
                         Surname = "million",
                         City = "123",
                         Prov = "",
@@ -86,7 +104,7 @@ namespace TravelBookingFrance.DAL.DataContext
                 new Travel
                 {
                     TravelId = 1,
-                    UrlTravelImage = "",
+                    UrlTravelImage = "destination-5.jpg",
                     TravelDate = "2024-01-10T00:00:00",
                     TravelName = "Marrakech_sejour",
                     Destination = "Maghreb",
@@ -100,7 +118,7 @@ namespace TravelBookingFrance.DAL.DataContext
                  new Travel
                  {
                      TravelId = 2,
-                     UrlTravelImage = "",
+                     UrlTravelImage = "destination-4.jpg",
                      TravelDate = "2024-01-10T00:00:00",
                      TravelName = "Tunis_Séjour",
                      Destination = "Tunis",
@@ -114,7 +132,7 @@ namespace TravelBookingFrance.DAL.DataContext
                   new Travel
                   {
                       TravelId = 3,
-                      UrlTravelImage = "",
+                      UrlTravelImage = "destination-3.jpg",
                       TravelDate = "2024-02-10T00:00:00",
                       TravelName = "Barcelone_Sejour",
                       Destination = "Espagne",
@@ -128,7 +146,7 @@ namespace TravelBookingFrance.DAL.DataContext
                    new Travel
                    {
                        TravelId = 4,
-                       UrlTravelImage = "",
+                       UrlTravelImage = "destination-2.jpg",
                        TravelDate = "2024-02-10T00:00:00",
                        TravelName = "Cairo_Sejour",
                        Destination = "Egypte",
@@ -142,7 +160,7 @@ namespace TravelBookingFrance.DAL.DataContext
                     new Travel
                     {
                         TravelId = 5,
-                        UrlTravelImage = "",
+                        UrlTravelImage = "destination-1.jpg",
                         TravelDate = "2024-02-10T00:00:00",
                         TravelName = "Manhatan_Sejour",
                         Destination = "Manhatan",
@@ -341,7 +359,7 @@ namespace TravelBookingFrance.DAL.DataContext
         PhotoId = 1,
 
         ProductId = 1,
-        Url = "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg"
+        Url = "car1.jpeg"
 
     },
     new Photo
@@ -349,7 +367,7 @@ namespace TravelBookingFrance.DAL.DataContext
         PhotoId = 2,
 
         ProductId = 1,
-        Url = "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg"
+        Url = "car2.jpeg"
 
     },
     new Photo
@@ -357,7 +375,7 @@ namespace TravelBookingFrance.DAL.DataContext
         PhotoId = 3,
 
         ProductId = 1,
-        Url = "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg"
+        Url = "car3.jpeg"
 
     },
     new Photo
@@ -365,7 +383,7 @@ namespace TravelBookingFrance.DAL.DataContext
         PhotoId = 4,
 
         ProductId = 1,
-        Url = "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg"
+        Url = "car4.jpeg"
 
     }
 

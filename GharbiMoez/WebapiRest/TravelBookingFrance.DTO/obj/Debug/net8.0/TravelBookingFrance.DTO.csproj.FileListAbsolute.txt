@@ -20,3 +20,15 @@ C:\Users\Moez\Desktop\PracticeDocker\TravelFrance\TravelBookingFrance.DTO\obj\De
 C:\Users\Moez\Desktop\PracticeDocker\TravelFrance\TravelBookingFrance.DTO\obj\Debug\net8.0\refint\TravelBookingFrance.DTO.dll
 C:\Users\Moez\Desktop\PracticeDocker\TravelFrance\TravelBookingFrance.DTO\obj\Debug\net8.0\TravelBookingFrance.DTO.pdb
 C:\Users\Moez\Desktop\PracticeDocker\TravelFrance\TravelBookingFrance.DTO\obj\Debug\net8.0\ref\TravelBookingFrance.DTO.dll
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\bin\Debug\net8.0\TravelBookingFrance.DTO.deps.json
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\bin\Debug\net8.0\TravelBookingFrance.DTO.dll
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\bin\Debug\net8.0\TravelBookingFrance.DTO.pdb
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\obj\Debug\net8.0\TravelBookingFrance.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\obj\Debug\net8.0\TravelBookingFrance.DTO.AssemblyInfoInputs.cache
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\obj\Debug\net8.0\TravelBookingFrance.DTO.AssemblyInfo.cs
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\obj\Debug\net8.0\TravelBookingFrance.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\obj\Debug\net8.0\TravelBookingFrance.DTO.sourcelink.json
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\obj\Debug\net8.0\TravelBookingFrance.DTO.dll
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\obj\Debug\net8.0\refint\TravelBookingFrance.DTO.dll
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\obj\Debug\net8.0\TravelBookingFrance.DTO.pdb
+C:\Users\Moez\Desktop\App\FullRemoteFactory\DotNet\GharbiMoez\WebapiRest\TravelBookingFrance.DTO\obj\Debug\net8.0\ref\TravelBookingFrance.DTO.dll

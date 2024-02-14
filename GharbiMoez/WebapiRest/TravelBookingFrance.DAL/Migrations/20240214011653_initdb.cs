@@ -261,11 +261,11 @@ namespace TravelBookingFrance.DAL.Migrations
                 columns: new[] { "UserId", "Address", "BusPhone", "City", "Country", "Email", "HomePhone", "Name", "Password", "Postal", "Prov", "Surname", "Username" },
                 values: new object[,]
                 {
-                    { 1, null, null, "123", null, "123", "123", "John", "123", "123", "", "Doe", "johndoe" },
-                    { 2, null, null, "123", null, "Rachelle.duboit@gmail.com", "123", "Rachelle", "123", "123", "123", "duboit", "Rachelle duboit" },
-                    { 3, null, null, "123", null, "Franc.Foureaux@gmail.com", "123", "Franc", "123", "123", "", "Foureaux", "Franc Foureaux" },
-                    { 4, null, null, "123", null, "marcell.million@gmail.com", "123", "marcell", "123", "123", "", "million", "marcell million" },
-                    { 5, null, null, "123", null, "123", "123", "Alex", "123", "123", "", "Martin", "Alex Martin" }
+                    { 1, "Astra.BellaVita", "5588774123", "Monaco", "France", "johndoe@gmail.com", "998123445855", "John", "123", "1234444", "Paris", "Doe", "johndoe" },
+                    { 2, "Astra.BellaVita", "5588774123", "Alexandria", "France", "Rachelle.duboit@gmail.com", "5585474123", "Rachelle", "123", "885885123", "Egypte", "duboit", "Rachelle duboit" },
+                    { 3, "Astra.BellaVita", "5588774123", "Alexandria", "France", "Franc.Foureaux@gmail.com", "5585474123", "Franc", "123", "885885123", "Egypte", "Foureaux", "Franc Foureaux" },
+                    { 4, "Astra.BellaVita", "5588774123", "123", "France", "marcell.million@gmail.com", "123", "marcell", "123", "123", "", "million", "marcell million" },
+                    { 5, "Astra.BellaVita", "5588774123", "Alexandria", "France", "Alex@gmail.com", "8555474123", "Alex", "123", "554123", "Egypte", "Martin", "Alex Martin" }
                 });
 
             migrationBuilder.InsertData(
@@ -285,11 +285,11 @@ namespace TravelBookingFrance.DAL.Migrations
                 columns: new[] { "TravelId", "CustomerId", "DepartureAirport", "DepartureDate", "Destination", "FlightId", "Prix", "TravelDate", "TravelName", "TripTypeId", "UrlTravelImage" },
                 values: new object[,]
                 {
-                    { 1, 1, "Paris aeroport", "2024-02-15T00:00:00", "Maghreb", 1, 0, "2024-01-10T00:00:00", "Marrakech_sejour", 1, "" },
-                    { 2, 1, "Paris aeroport", "2024-02-15T00:00:00", "Tunis", 2, 0, "2024-01-10T00:00:00", "Tunis_Séjour", 1, "" },
-                    { 3, 3, "Paris aeroport", "2024-02-15T00:00:00", "Espagne", 3, 0, "2024-02-10T00:00:00", "Barcelone_Sejour", 1, "" },
-                    { 4, 1, "Paris aeroport", "2024-02-15T00:00:00", "Egypte", 4, 0, "2024-02-10T00:00:00", "Cairo_Sejour", 1, "" },
-                    { 5, 1, "Paris aeroport", "2024-02-15T00:00:00", "Manhatan", 1, 0, "2024-02-10T00:00:00", "Manhatan_Sejour", 1, "" }
+                    { 1, 1, "Paris aeroport", "2024-02-15T00:00:00", "Maghreb", 1, 0, "2024-01-10T00:00:00", "Marrakech_sejour", 1, "destination-5.jpg" },
+                    { 2, 1, "Paris aeroport", "2024-02-15T00:00:00", "Tunis", 2, 0, "2024-01-10T00:00:00", "Tunis_Séjour", 1, "destination-4.jpg" },
+                    { 3, 3, "Paris aeroport", "2024-02-15T00:00:00", "Espagne", 3, 0, "2024-02-10T00:00:00", "Barcelone_Sejour", 1, "destination-3.jpg" },
+                    { 4, 1, "Paris aeroport", "2024-02-15T00:00:00", "Egypte", 4, 0, "2024-02-10T00:00:00", "Cairo_Sejour", 1, "destination-2.jpg" },
+                    { 5, 1, "Paris aeroport", "2024-02-15T00:00:00", "Manhatan", 1, 0, "2024-02-10T00:00:00", "Manhatan_Sejour", 1, "destination-1.jpg" }
                 });
 
             migrationBuilder.InsertData(
@@ -297,10 +297,10 @@ namespace TravelBookingFrance.DAL.Migrations
                 columns: new[] { "PhotoId", "ProductId", "Url" },
                 values: new object[,]
                 {
-                    { 1, 1, "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg" },
-                    { 2, 1, "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg" },
-                    { 3, 1, "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg" },
-                    { 4, 1, "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg" }
+                    { 1, 1, "car1.jpeg" },
+                    { 2, 1, "car2.jpeg" },
+                    { 3, 1, "car3.jpeg" },
+                    { 4, 1, "car4.jpeg" }
                 });
 
             migrationBuilder.InsertData(

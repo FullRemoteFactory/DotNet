@@ -147,59 +147,74 @@ namespace TravelBookingFrance.DAL.Migrations
                         new
                         {
                             UserId = 1,
-                            City = "123",
-                            Email = "123",
-                            HomePhone = "123",
+                            Address = "Astra.BellaVita",
+                            BusPhone = "5588774123",
+                            City = "Monaco",
+                            Country = "France",
+                            Email = "johndoe@gmail.com",
+                            HomePhone = "998123445855",
                             Name = "John",
                             Password = "123",
-                            Postal = "123",
-                            Prov = "",
+                            Postal = "1234444",
+                            Prov = "Paris",
                             Surname = "Doe",
                             Username = "johndoe"
                         },
                         new
                         {
                             UserId = 5,
-                            City = "123",
-                            Email = "123",
-                            HomePhone = "123",
+                            Address = "Astra.BellaVita",
+                            BusPhone = "5588774123",
+                            City = "Alexandria",
+                            Country = "France",
+                            Email = "Alex@gmail.com",
+                            HomePhone = "8555474123",
                             Name = "Alex",
                             Password = "123",
-                            Postal = "123",
-                            Prov = "",
+                            Postal = "554123",
+                            Prov = "Egypte",
                             Surname = "Martin",
                             Username = "Alex Martin"
                         },
                         new
                         {
                             UserId = 2,
-                            City = "123",
+                            Address = "Astra.BellaVita",
+                            BusPhone = "5588774123",
+                            City = "Alexandria",
+                            Country = "France",
                             Email = "Rachelle.duboit@gmail.com",
-                            HomePhone = "123",
+                            HomePhone = "5585474123",
                             Name = "Rachelle",
                             Password = "123",
-                            Postal = "123",
-                            Prov = "123",
+                            Postal = "885885123",
+                            Prov = "Egypte",
                             Surname = "duboit",
                             Username = "Rachelle duboit"
                         },
                         new
                         {
                             UserId = 3,
-                            City = "123",
+                            Address = "Astra.BellaVita",
+                            BusPhone = "5588774123",
+                            City = "Alexandria",
+                            Country = "France",
                             Email = "Franc.Foureaux@gmail.com",
-                            HomePhone = "123",
+                            HomePhone = "5585474123",
                             Name = "Franc",
                             Password = "123",
-                            Postal = "123",
-                            Prov = "",
+                            Postal = "885885123",
+                            Prov = "Egypte",
                             Surname = "Foureaux",
                             Username = "Franc Foureaux"
                         },
                         new
                         {
                             UserId = 4,
+                            Address = "Astra.BellaVita",
+                            BusPhone = "5588774123",
                             City = "123",
+                            Country = "France",
                             Email = "marcell.million@gmail.com",
                             HomePhone = "123",
                             Name = "marcell",
@@ -311,25 +326,25 @@ namespace TravelBookingFrance.DAL.Migrations
                         {
                             PhotoId = 1,
                             ProductId = 1,
-                            Url = "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg"
+                            Url = "car1.jpeg"
                         },
                         new
                         {
                             PhotoId = 2,
                             ProductId = 1,
-                            Url = "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg"
+                            Url = "car2.jpeg"
                         },
                         new
                         {
                             PhotoId = 3,
                             ProductId = 1,
-                            Url = "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg"
+                            Url = "car3.jpeg"
                         },
                         new
                         {
                             PhotoId = 4,
                             ProductId = 1,
-                            Url = "https://images.caradisiac.com/logos-ref/modele/modele--land-rover-range-rover-evoque/S8-modele--land-rover-range-rover-evoque.jpg"
+                            Url = "car4.jpeg"
                         });
                 });
 
@@ -465,7 +480,7 @@ namespace TravelBookingFrance.DAL.Migrations
                             TravelDate = "2024-01-10T00:00:00",
                             TravelName = "Marrakech_sejour",
                             TripTypeId = 1,
-                            UrlTravelImage = ""
+                            UrlTravelImage = "destination-5.jpg"
                         },
                         new
                         {
@@ -479,7 +494,7 @@ namespace TravelBookingFrance.DAL.Migrations
                             TravelDate = "2024-01-10T00:00:00",
                             TravelName = "Tunis_Séjour",
                             TripTypeId = 1,
-                            UrlTravelImage = ""
+                            UrlTravelImage = "destination-4.jpg"
                         },
                         new
                         {
@@ -493,7 +508,7 @@ namespace TravelBookingFrance.DAL.Migrations
                             TravelDate = "2024-02-10T00:00:00",
                             TravelName = "Barcelone_Sejour",
                             TripTypeId = 1,
-                            UrlTravelImage = ""
+                            UrlTravelImage = "destination-3.jpg"
                         },
                         new
                         {
@@ -507,7 +522,7 @@ namespace TravelBookingFrance.DAL.Migrations
                             TravelDate = "2024-02-10T00:00:00",
                             TravelName = "Cairo_Sejour",
                             TripTypeId = 1,
-                            UrlTravelImage = ""
+                            UrlTravelImage = "destination-2.jpg"
                         },
                         new
                         {
@@ -521,7 +536,7 @@ namespace TravelBookingFrance.DAL.Migrations
                             TravelDate = "2024-02-10T00:00:00",
                             TravelName = "Manhatan_Sejour",
                             TripTypeId = 1,
-                            UrlTravelImage = ""
+                            UrlTravelImage = "destination-1.jpg"
                         });
                 });
 

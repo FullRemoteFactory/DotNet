@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c1auhIJ8z6wPoSlreHUlXqAR6rZpYCUyBVOXjX6aoU6BaUNJ8sfObW09+HMBuBwXDwqgAWfXNAbxEGcHjHiBgA==",
+  "dgSpecHash": "EA+txpUIkavZvk7zCbpCjee/4Vifa/5mJaUYoaFMw4r/7i8JdwHcpCFwkdTQgERQIypeebt7T25UI6gkcBy2uA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.BLL\\TravelBookingFrance.BLL.csproj",
+  "projectFilePath": "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\WebapiRest\\TravelBookingFrance.BLL\\TravelBookingFrance.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moez\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Moez\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",

@@ -16,5 +16,10 @@ namespace TravelBookingFrance.BLL.Services
         {
             return await _travelRepository.GetAllTravelByCustomerIdAsync(id);
         }
+
+        public async Task<Travel> GetTravelByIdService(int TravelId)
+        {
+            return await _travelRepository.GetTravelByIdAsync(TravelId);
+        }
     }
 }

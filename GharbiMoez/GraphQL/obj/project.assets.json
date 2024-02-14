@@ -3194,11 +3194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelBookingGraphQl\\TravelBookingGraphQl.csproj",
+      "projectUniqueName": "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\GraphQL\\TravelBookingGraphQl.csproj",
       "projectName": "TravelBookingGraphQl",
-      "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelBookingGraphQl\\TravelBookingGraphQl.csproj",
+      "projectPath": "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\GraphQL\\TravelBookingGraphQl.csproj",
       "packagesPath": "C:\\Users\\Moez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelBookingGraphQl\\obj\\",
+      "outputPath": "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\GraphQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moez\\AppData\\Roaming\\NuGet\\NuGet.Config",

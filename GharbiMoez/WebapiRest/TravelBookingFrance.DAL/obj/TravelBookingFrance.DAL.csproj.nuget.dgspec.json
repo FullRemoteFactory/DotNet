@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj": {}
+    "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj": {
+    "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj",
         "projectName": "TravelBookingFrance.DAL",
-        "projectPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj",
+        "projectPath": "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DAL\\TravelBookingFrance.DAL.csproj",
         "packagesPath": "C:\\Users\\Moez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelFrance\\TravelBookingFrance.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\WebapiRest\\TravelBookingFrance.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moez\\AppData\\Roaming\\NuGet\\NuGet.Config",

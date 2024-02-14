@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3OA/mbzJNNRAhkrJH/zL7sf3pBn3njXXY3jjC3GmA/d2oaBJVH0vk7WTf+MEhSxpFxww5+RGo0TK2IvWus4Fw==",
+  "dgSpecHash": "dNiHdfiIU6FwBK02OzUuLvzfwzT0BwnH6tMfygFgpol5XK6jErh30zPcZ9WpesqT1z+2eWhVIMCUPq4yZxJt1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelBookingFrance.FrontMVC\\TravelBookingFrance.FrontMVC.csproj",
+  "projectFilePath": "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\FrontMVC\\TravelBookingFrance.FrontMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moez\\.nuget\\packages\\graphql.client\\6.0.2\\graphql.client.6.0.2.nupkg.sha512",
     "C:\\Users\\Moez\\.nuget\\packages\\graphql.client.abstractions\\6.0.2\\graphql.client.abstractions.6.0.2.nupkg.sha512",

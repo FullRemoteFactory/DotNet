@@ -24,6 +24,12 @@ namespace TravelBookingFrance.WebApi.Controllers
             /*return NewResult(await Mediator.Send(query));*/
             return NewResult(await Mediator.Send(query));
         }
+        [HttpGet("GetTravelById")]
+        public async Task<IActionResult> GetTravelById([FromQuery] GetTravelById query)
+        {
+            /*return NewResult(await Mediator.Send(query));*/
+            return NewResult(await Mediator.Send(query));
+        }
 
     }
 }

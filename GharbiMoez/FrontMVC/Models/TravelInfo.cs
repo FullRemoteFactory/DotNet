@@ -8,8 +8,8 @@
         public string Destination { get; set; }
         public string? DepartureDate { get; set; }
         public string DepartureAirport { get; set; }
-
-        //product
+        public string urlTravelImage { get; set; }
+        //product urlTravelImage
         //public List<string> ProdName { get; set; }  //
         //public string ProdDescription { get; set; }
         public virtual ICollection<ActivityDTO>? Activities { get; set; }

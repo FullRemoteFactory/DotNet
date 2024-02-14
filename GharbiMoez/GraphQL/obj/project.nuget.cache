@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DfwkV+T8s03iozodUadyHeMfLxd6yE2HLhyyL7mk0iuCNPnqpWG8Zz5VGmgSm85BmVbPtSC33wtRAmy8mig4CQ==",
+  "dgSpecHash": "q0s7NZiUOEj5ZXxiBt8X7+nReTLu4zmPaZu14Eah//EITiR938WPvaJA3ZsLC8TszwCb1vVkai6C1lGxMxYP8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Moez\\Desktop\\PracticeDocker\\TravelBookingGraphQl\\TravelBookingGraphQl.csproj",
+  "projectFilePath": "C:\\Users\\Moez\\Desktop\\App\\FullRemoteFactory\\DotNet\\GharbiMoez\\GraphQL\\TravelBookingGraphQl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moez\\.nuget\\packages\\bananacakepop.middleware\\13.0.0\\bananacakepop.middleware.13.0.0.nupkg.sha512",
     "C:\\Users\\Moez\\.nuget\\packages\\graphql\\7.8.0\\graphql.7.8.0.nupkg.sha512",

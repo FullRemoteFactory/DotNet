@@ -36,6 +36,12 @@ namespace TravelBookingFrance.DAL.Repositories
             return query;
 
         }
+
+        public async Task<Travel> GetTravelByIdAsync(int TravelId)
+        {
+            Travel query = await _appContext.Travels.Where(x => x.TravelId == TravelId).Include(x => x.Flight).Include(x => x.TripType).Include(x => x.TActivities).ThenInclude(x => x.Activite).Include(x => x.TravelProducts).ThenInclude(x => x.Product).ThenInclude(x => x.Photos).AsNoTracking().FirstOrDefaultAsync();
+            return query;
+        }
         #endregion
     }
 }

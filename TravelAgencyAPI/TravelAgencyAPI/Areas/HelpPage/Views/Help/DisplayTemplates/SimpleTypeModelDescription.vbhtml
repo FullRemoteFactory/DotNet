@@ -1,0 +1,3 @@
+@Imports TravelAgencyAPI.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation

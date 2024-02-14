@@ -4,7 +4,7 @@
 #Login functionality with Data username(johndoe) password 123 en cliquant signin
 ![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/002ac93a-07e9-482d-97ca-6f9c68592e30)
 
-![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/73d17686-c200-4f93-9e4a-55f210378801)
+#une fois login success, nous somme sur la page profil
 
 #une premiere section pour userinfo 
 ![image](https://github.com/FullRemoteFactory/DotNet/assets/73045903/bf732f45-9ee6-4525-9765-2326296e9558)
